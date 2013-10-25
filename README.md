@@ -1,9 +1,9 @@
 KoTemplater
 ===========
 
-A (very simple) template engine for using Knockout and Twitter Typeahead.
+A (very simple) template engine for using [Knockout](http://knockoutjs.com/) and [Twitter Typeahead](https://github.com/twitter/typeahead.js).
 
-Simplay include the koTemplater.js file bafoe you need to use the engine
+Simply include the koTemplater.js file before you need to use the engine.
 
 From the typeahead examples page:
 
